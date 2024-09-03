@@ -1,0 +1,396 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [-5.9763022, 37.3750549],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Avenida de Diego Martinez Barrio, 8, 41013 Seville",
+        "name": "NH Collection Sevilla",
+        "notes": "",
+        "price_per_night": "104",
+        "type": "Hotel",
+        "url": "https://www.nh-collection.com/hotel/nh-collection-sevilla",
+        "where_from": "Maria",
+        "with_breakfast": "134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.980062818792218, 37.353850800000004],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Avenida de la Palmera s/n, esq. Calle Paran\u00e1. 41012. Seville, Spain",
+        "name": "Hoteles silken",
+        "notes": "",
+        "price_per_night": "65",
+        "type": "Hotel",
+        "url": "https://www.hoteles-silken.com/en/hotel-al-andalus-seville/?gclid=Cj0KCQiA9dDwBRC9ARIsABbedBOKgmNy_NS-gxDw7k5K-gvmpAi6Way4T7IVnfksu4JTCKOSTENiqj0aAvcvEALw_wcB",
+        "where_from": "Maria",
+        "with_breakfast": "83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9828292456099845, 37.364415699999995],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "AV Manuel Siurot 25, Seville",
+        "name": "AC Hotel Ciudad de Seville",
+        "notes": "",
+        "price_per_night": "85",
+        "type": "Hotel",
+        "url": "https://www.marriott.com/hotels/travel/svqci-ac-hotel-ciudad-de-sevilla/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.98311133399276, 37.37814605],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Dr. Pedro de Castro, 1, Seville",
+        "name": "Melia Seville",
+        "notes": "",
+        "price_per_night": "90",
+        "type": "Recommended hotel",
+        "url": "https://www.melia.com/en/hotels/spain/seville/melia-sevilla/index.htm",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9998944, 37.3889177],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Reyes Cat\u00f3licos, 5 41001 Seville, Spain",
+        "name": "Petit palace puerta de triana",
+        "notes": "",
+        "price_per_night": "79",
+        "type": "Recommended hotel",
+        "url": "https://www.petitpalace.com/en/hotels/seville-centre/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9947673, 37.3866599],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Jimios, 9-11, 41001 Seville, Spain",
+        "name": "Petit palace marques santa ana",
+        "notes": "",
+        "price_per_night": "79",
+        "type": "Recommended hotel",
+        "url": "https://www.petitpalace.com/en/hotels/seville-centre/marques-santa-ana/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9895544, 37.3884317],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Mu\u00f1oz y Pab\u00f3n, 18, 41004 Seville, Spain",
+        "name": "petit palace santa cruz",
+        "notes": "",
+        "price_per_night": "79",
+        "type": "Recommended hotel",
+        "url": "https://www.petitpalace.com/en/hotels/seville-centre/santa-cruz/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9934473, 37.3867314],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Alemanes, 27, 41004 Sevilla",
+        "name": "eme cathedral",
+        "notes": "",
+        "price_per_night": "190",
+        "type": "Hotel",
+        "url": "https://www.emecatedralmercer.com/en/restaurants-and-bars/al-lado-paco-perez",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9916082, 37.3875141],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Segovias 6, 41004, Seville",
+        "name": "FonteCruz",
+        "notes": "",
+        "price_per_night": "160",
+        "type": "Hotel",
+        "url": "https://www.fontecruzhoteles.com/en/hotel-fontecruz-sevilla-seises/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9879811, 37.3870206],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle San Jos\u00e9, 21- 41004 Sevilla, Spain",
+        "name": "Hotel fernando III",
+        "notes": "",
+        "price_per_night": "75",
+        "type": "Recommended hotel",
+        "url": "https://www.hotelfernandoiii.es/en/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9886574, 37.3871961],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Farnesio 6 & Calle San Jos\u00e9 10, 41004 Sevilla",
+        "name": "Hotel Amadeus",
+        "notes": "",
+        "price_per_night": "150",
+        "type": "Hotel",
+        "url": "http://www.hotelamadeussevilla.com/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9873012, 37.3863145],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Sta. Mar\u00eda la Blanca, 5, 41004",
+        "name": "Hotel Las Casas De Las Juderias",
+        "notes": "",
+        "price_per_night": "90",
+        "type": "Hotel",
+        "url": "https://www.lascasasdelajuderiasevilla.com/en/",
+        "where_from": "Maria",
+        "with_breakfast": "110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-6.0007098, 37.3873441],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Paseo de Crist\u00f3bal Col\u00f3n, 3, Sevilla 41001",
+        "name": "Hotel kivir",
+        "notes": "",
+        "price_per_night": "150",
+        "type": "Hotel",
+        "url": "https://www.hotelkivir.com/en/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-6.000387396120551, 37.38913675],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Reyes Cat\u00f3licos, 4, 41001, Seville",
+        "name": "Hotel becquer",
+        "notes": "",
+        "price_per_night": "130",
+        "type": "Hotel",
+        "url": "https://www.hotelbecquer.com/en/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.989163345465392, 37.3928545],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Almirante Apodaca, 7- 41003 Sevilla, Spain",
+        "name": "Hotel posada del lucero",
+        "notes": "",
+        "price_per_night": "120",
+        "type": "Hotel",
+        "url": "https://www.hotelposadadellucero.es/en/",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9927451, 37.3910941],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Lagar, 2 - 4, Seville",
+        "name": "H10 casa de la plata",
+        "notes": "",
+        "price_per_night": "104",
+        "type": "Hotel",
+        "url": "https://www.h10hotels.com/en/seville-hotels/h10-casa-de-la-plata?utm_source=Google%20My%20Business&utm_medium=Boton%20sitio%20web&utm_campaign=HPL",
+        "where_from": "Maria",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.993522, 37.3878682],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Hernando Col\u00f3n, 3, 41004, Seville",
+        "name": "Hotel Casa de colon",
+        "notes": "",
+        "price_per_night": "135",
+        "type": "Hotel",
+        "url": "https://www.hotelcasadecolon.com/index.php/en/",
+        "where_from": "Amigo",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.993774, 37.3961602],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "17 Calle Morgado, Sevilla",
+        "name": "H10 Corregidor",
+        "notes": "",
+        "price_per_night": "75",
+        "type": "Hotel",
+        "url": "https://www.h10hotels.com/en/seville-hotels/h10-corregidor?utm_source=Google%20My%20Business&utm_medium=Boton%20sitio%20web&utm_campaign=HCO",
+        "where_from": "Amigo",
+        "with_breakfast": "95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9892617, 37.3854511],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Reinoso, 8, 41004, Seville",
+        "name": "El Rey Moro Hotel Boutique",
+        "notes": "",
+        "price_per_night": "90",
+        "type": "Hotel",
+        "url": "https://elreymoro.com/en/",
+        "where_from": "Amigo",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.988240451432664, 37.3860002],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "10 Calle Cruces, Sevilla",
+        "name": "Hotel Patio de Las Cruces",
+        "notes": "",
+        "price_per_night": "",
+        "type": "Hotel",
+        "url": "",
+        "where_from": "Amigo",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.991924116929132, 37.3830483],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Mariana de Pineda, 18, 41004, Seville",
+        "name": "Legado Alcazar",
+        "notes": "We are staying here Sat 14th - Tues 17th.",
+        "price_per_night": "110",
+        "type": "Couple hotel",
+        "url": "https://www.legadoalcazarhotel.com/en/",
+        "where_from": "Amigo",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.9937307, 37.3887382],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Calle Pajaritos, 3, Sevilla, Andalucía 41004, Spain",
+        "name": "Colm & Vanessa\u2019s pre wedding apartment",
+        "notes": "We are staying here (Sun 16th - Thurs 19th).",
+        "price_per_night": "",
+        "type": "Apartment",
+        "url": "",
+        "where_from": "Amigo",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [-5.984896649752274, 37.36867495],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Avenida Manuel Siurot, 1, 41013 Sevilla",
+        "name": "Venue",
+        "notes": "The venue is here! See you at 6pm, 15th May 2022!",
+        "price_per_night": "",
+        "type": "Venue",
+        "url": "",
+        "where_from": "Amigo",
+        "with_breakfast": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
